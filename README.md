@@ -1,19 +1,19 @@
 # Rocket.sect - Plataforma de segurança digital
 
 Página web criada em HTML e CCS a partir de layout no figma.
-Projeto 02 do programa Explorer da Rockeseat. 
+Desafio do programa Explorer da Rockeseat. 
 
 Figma :https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2/Explorer/duplicate
 
-Deploy: https://paru369.github.io/Treine.me/
+Deploy: https://paru369.github.io/Rocket.sect/
 
-<img src=".images/Screenshot.png"> 
+<img src="./images/Screenshot.png"> 
 
 
 ## 🚀 Começando
 
 Executar index.html
-https://paru369.github.io/Treine.me/
+https://paru369.github.io/Rocket.sect/
 
 ### 📋 Pré-requisitos
 
