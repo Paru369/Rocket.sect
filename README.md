@@ -7,13 +7,15 @@ Figma :https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2/Explorer/duplicate
 
 Deploy: https://paru369.github.io/Rocket.sect/
 
+
 <img src="./images/Screenshot.png"> 
 
 
 ## 🚀 Começando
 
 Executar index.html
-https://paru369.github.io/Rocket.sect/
+
+Deploy: https://paru369.github.io/Rocket.sect/
 
 ### 📋 Pré-requisitos
 
